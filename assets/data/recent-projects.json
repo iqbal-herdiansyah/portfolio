@@ -1,0 +1,137 @@
+[
+  {
+    "name": "IDMAI",
+    "url": "https://pangan.bappenas.go.id",
+    "description": "Merupakan sistem informasi berbasis penginderaan jarak jauh yang memberikan informasi tentang kondisi faktual tanaman padi dan tanaman lainnya di lapangan. IDMAI memanfaatkan data citra satelit Sentinel-1 untuk memonitor lahan pertanian dan kondisi tanaman seperti fase pertumbuhan padi, luas tanam, luas panen, produktivitas, dan indeks pertanaman sesuai kondisi di lapangan. Informasi pada website divisualisasikan melalui peta interaktif secara spasial, data numerik berbentuk tabular dan grafik, yang diupdate setiap 12 hari kali. IDMAI juga dilengkapi dengan informasi provitas padi sawah di seluruh Indonesia.",
+    "images": {
+      "preview": "/images/projects/idmai/thumbnail.png",
+      "logo": ""
+    },
+    "tools": [
+      {
+        "name": "Vue",
+        "path": "https://cdn.simpleicons.org/vue.js/vue.js"
+      },
+      {
+        "name": "Nuxt",
+        "path": "https://cdn.simpleicons.org/nuxt/nuxt"
+      },
+      {
+        "name": "Tailwindcss",
+        "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
+      },
+      {
+        "name": "Primevue",
+        "path": "https://cdn.simpleicons.org/primevue/primevue"
+      },
+      {
+        "name": "Leaflet",
+        "path": "https://cdn.simpleicons.org/leaflet/leaflet"
+      }
+    ]
+  },
+  {
+    "name": "ELHKPN",
+    "url": "https://frontend.elhkpn.devel.torche-indonesia.com",
+    "description": "Merupakan salah satu instrumen pencegahan Korupsi, Kolusi, dan Nepotisme (KKN) yang dimiliki oleh KPK.",
+    "images": {
+      "preview": "/images/projects/elhkpn/thumbnail.png",
+      "logo": ""
+    },
+    "tools": [
+      {
+        "name": "Vue",
+        "path": "https://cdn.simpleicons.org/vue.js/vue.js"
+      },
+      {
+        "name": "Nuxt",
+        "path": "https://cdn.simpleicons.org/nuxt/nuxt"
+      },
+      {
+        "name": "Tailwindcss",
+        "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
+      },
+      {
+        "name": "Primevue",
+        "path": "https://cdn.simpleicons.org/primevue/primevue"
+      }
+    ]
+  },
+  {
+    "name": "SEA TODAY",
+    "url": "https://seaform.seatoday.com",
+    "description": "Aplikasi web yang memungkinkan pengguna membuat dan mengelola formulir secara online, mirip dengan Google Forms dan Typeform. Aplikasi ini dirancang untuk memberikan pengalaman pengguna yang intuitif dan fleksibel dalam membuat survei, kuesioner, dan formulir lainnya.",
+    "images": {
+      "preview": "/images/projects/seatoday/thumbnail.png",
+      "logo": ""
+    },
+    "tools": [
+      {
+        "name": "Laravel",
+        "path": "https://cdn.simpleicons.org/laravel/laravel"
+      },
+      {
+        "name": "Jquery",
+        "path": "https://cdn.simpleicons.org/jquery/jquery"
+      },
+      {
+        "name": "Bootstrap",
+        "path": "https://cdn.simpleicons.org/bootstrap/bootstrap"
+      }
+    ]
+  },
+  {
+    "name": "PANTONPILE",
+    "url": "https://pantonpile.net",
+    "description": "Perusahaan yang profesional di bidang pondasi dan sudah beroperasi sejak tahun 1992.",
+    "images": {
+      "preview": "/images/projects/pantonpile/thumbnail.png",
+      "logo": ""
+    },
+    "tools": [
+      {
+        "name": "Vue",
+        "path": "https://cdn.simpleicons.org/vue.js/vue.js"
+      },
+      {
+        "name": "Nuxt",
+        "path": "https://cdn.simpleicons.org/nuxt/nuxt"
+      },
+      {
+        "name": "Tailwindcss",
+        "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
+      },
+      {
+        "name": "Primevue",
+        "path": "https://cdn.simpleicons.org/primevue/primevue"
+      }
+    ]
+  },
+  {
+    "name": "BANJARATMA",
+    "url": "https://banjaratma.netlify.app",
+    "description": "Merupakan aplikasi berbasis web untuk pemesanan produk hotel secara online.",
+    "images": {
+      "preview": "/images/projects/banjaratma/thumbnail.png",
+      "logo": ""
+    },
+    "tools": [
+      {
+        "name": "Vue",
+        "path": "https://cdn.simpleicons.org/vue.js/vue.js"
+      },
+      {
+        "name": "Nuxt",
+        "path": "https://cdn.simpleicons.org/nuxt/nuxt"
+      },
+      {
+        "name": "Tailwindcss",
+        "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
+      },
+      {
+        "name": "Primevue",
+        "path": "https://cdn.simpleicons.org/primevue/primevue"
+      }
+    ]
+  }
+]

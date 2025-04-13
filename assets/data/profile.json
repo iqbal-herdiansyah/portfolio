@@ -1,0 +1,42 @@
+{
+  "name": "Muhammad Iqbal Putra Herdiansyah",
+  "title": "Frontend Developer",
+  "location": {
+    "country": "profile.location.country",
+    "province": "profile.location.province",
+    "city": "profile.location.city"
+  },
+  "images": {
+    "profile_path": "/images/profile/profile.jpg"
+  },
+  "social_media": [
+    {
+      "name": "Linked In",
+      "icon": "bx:bxl-linkedin",
+      "value": "iqbalherdiansyah204",
+      "url": "https://www.linkedin.com/in/iqbalherdiansyah"
+    },
+    {
+      "name": "Whatsapp",
+      "icon": "bx:bxl-whatsapp",
+      "value": "081216377540",
+      "url": "https://wa.me/6281216377540"
+    },
+    {
+      "name": "Instagram",
+      "icon": "bx:bxl-instagram",
+      "value": "iqbalxdrk",
+      "url": "https://www.instagram.com/iqbalxdrk"
+    },
+    {
+      "name": "Mail",
+      "icon": "bx:envelope",
+      "value": "iqbalherdiansyah204",
+      "url": "mailto:iqbalherdiansyah204@gmail.com"
+    }
+  ],
+  "about": {
+    "years_of_experience": 3,
+    "projects_completed": 10
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "bracketSameLine": false,
+  "endOfLine": "auto",
+  "htmlWhitespaceSensitivity": "ignore",
+  "printWidth": 100,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "none",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "tailwindAttributes": [
+    "pt",
+    "exact-active-class",
+    "enter-active-class",
+    "enter-from-class",
+    "enter-to-class",
+    "leave-active-class",
+    "leave-from-class",
+    "leave-to-class",
+    "ui"
+  ]
+}

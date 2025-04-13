@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Rahman Nurudin",
+    "images": {
+      "profile": "/images/clients/rahman.jpg"
+    },
+    "roles": ["Software Engineer", "Full-Stack Developer"],
+    "comment": "when i first joined harisenin-bootcamp, iqbal taught me everyting about programming. he explains everything clearly. he's an easy going person and he got the potential to be a good mentor in the future. and i really liked studying together with him. wish you all the best iqbal and goodluck with your career in the future.when"
+  },
+  {
+    "name": "Muhammad Fachrul Hasan Mujtahid",
+    "images": {
+      "profile": "/images/clients/fachrul.jpg"
+    },
+    "roles": ["Digital Generalist", "WordPress Specialist", "Ex-Garuda TV"],
+    "comment": "Iqbal was a good mentor and taught everything about programming at Harisenin Bootcamp. He has the potential to be a good teacher as well as a good worker. I wish him all the best for his journey and hope we can collaborate more in the near future."
+  }
+]

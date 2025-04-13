@@ -1,0 +1,89 @@
+@import 'tailwindcss';
+@import '@nuxt/ui';
+
+:root {
+  --background: 0.97 0.0011 197.14;
+  --card: 0.93 0.0011 197.14;
+  --input: 0.97 0.0011 197.14;
+
+  --primary: 0.36 0 0;
+  --secondary: 0.51 0 0;
+
+  --help-50: 0.97 0.0162 297.53;
+  --help-100: 0.94 0.0286 296.75;
+  --help-200: 0.89 0.058 296.12;
+  --help-300: 0.81 0.1045 295.77;
+  --help-400: 0.71 0.1652 295.96;
+  --help-500: 0.61 0.2241 295.25;
+  --help-600: 0.59 0.2345 298.03;
+  --help-700: 0.5 0.2452 295.79;
+  --help-800: 0.44 0.2147 296.09;
+  --help-900: 0.39 0.1828 297.23;
+  --help-950: 0.29 0.1375 294.76;
+  --help-button-label: 1 0 0;
+}
+
+.dark {
+  --background: 0.18 0.0026 247.98;
+  --card: 0.28 0.0023 247.91;
+  --input: 0.4 0.0021 247.88;
+
+  --primary: 1 0 0;
+  --secondary: 0.89 0 0;
+}
+
+@theme {
+  /* Fonts */
+  --font-outfit: 'Outfit';
+
+  /* Colors */
+  --color-background: oklch(var(--background));
+  --color-card: oklch(var(--card));
+  --color-input: oklch(var(--input));
+
+  --color-primary: oklch(var(--primary));
+  --color-secondary: oklch(var(--secondary));
+
+  --color-help: oklch(var(--help-600));
+  --color-help-50: oklch(var(--help-50));
+  --color-help-100: oklch(var(--help-100));
+  --color-help-200: oklch(var(--help-200));
+  --color-help-300: oklch(var(--help-300));
+  --color-help-400: oklch(var(--help-400));
+  --color-help-500: oklch(var(--help-500));
+  --color-help-600: oklch(var(--help-600));
+  --color-help-700: oklch(var(--help-700));
+  --color-help-800: oklch(var(--help-800));
+  --color-help-900: oklch(var(--help-900));
+  --color-help-950: oklch(var(--help-950));
+  --color-help-button-label: oklch(var(--help-button-label));
+
+  /* Spacing */
+  --spacing-section-margin: 100px;
+}
+
+@layer base {
+  html,
+  body,
+  * {
+    @apply font-outfit;
+  }
+
+  html {
+    @apply scroll-smooth;
+  }
+
+  body {
+    @apply bg-background text-primary;
+  }
+
+  button {
+    @apply cursor-pointer;
+  }
+}
+
+@layer components {
+  .section-title {
+    @apply text-center text-4xl leading-12 font-semibold uppercase md:text-6xl md:leading-none lg:text-start;
+  }
+}
