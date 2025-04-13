@@ -113,15 +113,6 @@ export default defineNuxtConfig({
       {
         from: 'tailwind-merge',
         imports: ['twMerge']
-      },
-      {
-        from: 'validator',
-        imports: [
-          {
-            name: 'isEmail',
-            as: 'emailValidator'
-          }
-        ]
       }
     ]
   },

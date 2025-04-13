@@ -1,4 +1,5 @@
 import { z } from 'zod';
+import { isEmail } from 'validator';
 
 export const FormContactSchema = z.object({
   name: z.string().refine((value) => value.length >= 1, {
@@ -8,7 +9,7 @@ export const FormContactSchema = z.object({
       }
     }
   }),
-  email: z.string().refine((value) => emailValidator(value), {
+  email: z.string().refine((value) => isEmail(value), {
     params: {
       i18n: {
         key: 'form.email.not_valid'
