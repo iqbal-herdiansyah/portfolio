@@ -108,15 +108,6 @@ export default defineNuxtConfig({
     }
   },
 
-  imports: {
-    presets: [
-      {
-        from: 'tailwind-merge',
-        imports: ['twMerge']
-      }
-    ]
-  },
-
   vite: {
     plugins: [tailwindcss()]
   }
