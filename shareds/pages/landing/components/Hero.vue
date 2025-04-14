@@ -36,7 +36,7 @@ const superiorityItems = computed<SuperiorityItem[]>(() => [
         <div
           v-for="(superiority, index) in superiorityItems"
           :key="index"
-          class="flex flex-col gap-1 lg:gap-0"
+          class="flex flex-col gap-1 lg:w-40 lg:gap-0"
         >
           <p class="text-center text-5xl font-semibold md:text-7xl lg:text-start">
             {{ superiority.title }}
