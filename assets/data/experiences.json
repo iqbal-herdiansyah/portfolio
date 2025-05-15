@@ -1,16 +1,5 @@
 [
   {
-    "position": "Teaching Assistant",
-    "company": {
-      "name": "Harisenin.com",
-      "image": "/images/experiences/harisenin.jpeg"
-    },
-    "time_period": {
-      "start": "2022-12-01",
-      "end": "2023-07-01"
-    }
-  },
-  {
     "position": "Frontend Developer",
     "company": {
       "name": "Torche Indonesia",
@@ -19,6 +8,17 @@
     "time_period": {
       "start": "2023-05-01",
       "end": null
+    }
+  },
+  {
+    "position": "Teaching Assistant",
+    "company": {
+      "name": "Harisenin.com",
+      "image": "/images/experiences/harisenin.jpeg"
+    },
+    "time_period": {
+      "start": "2022-12-01",
+      "end": "2023-07-01"
     }
   }
 ]
