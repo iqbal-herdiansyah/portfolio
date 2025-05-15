@@ -1,8 +1,8 @@
 [
   {
-    "name": "bootstrap",
-    "title": "Bootstrap",
-    "image": "https://cdn.simpleicons.org/bootstrap/bootstrap"
+    "name": "html5",
+    "title": "HTML5",
+    "image": "https://cdn.simpleicons.org/html5/html5"
   },
   {
     "name": "css3",
@@ -10,84 +10,9 @@
     "image": "https://cdn.simpleicons.org/css3/css3"
   },
   {
-    "name": "git",
-    "title": "Git",
-    "image": "https://cdn.simpleicons.org/git/git"
-  },
-  {
-    "name": "github",
-    "title": "GitHub",
-    "image": "https://cdn.simpleicons.org/github/github"
-  },
-  {
-    "name": "gitlab",
-    "title": "GitLab",
-    "image": "https://cdn.simpleicons.org/gitlab/gitlab"
-  },
-  {
-    "name": "html5",
-    "title": "HTML5",
-    "image": "https://cdn.simpleicons.org/html5/html5"
-  },
-  {
     "name": "javascript",
     "title": "JavaScript",
     "image": "https://cdn.simpleicons.org/javascript/javascript"
-  },
-  {
-    "name": "jquery",
-    "title": "jQuery",
-    "image": "https://cdn.simpleicons.org/jquery/jquery"
-  },
-  {
-    "name": "laravel",
-    "title": "Laravel",
-    "image": "https://cdn.simpleicons.org/laravel/laravel"
-  },
-  {
-    "name": "leaflet",
-    "title": "Leaflet",
-    "image": "https://cdn.simpleicons.org/leaflet/leaflet"
-  },
-  {
-    "name": "node.js",
-    "title": "Node.js",
-    "image": "https://cdn.simpleicons.org/node.js/node.js"
-  },
-  {
-    "name": "nuxt",
-    "title": "Nuxt",
-    "image": "https://cdn.simpleicons.org/nuxt/nuxt"
-  },
-  {
-    "name": "php",
-    "title": "PHP",
-    "image": "https://cdn.simpleicons.org/php/php"
-  },
-  {
-    "name": "primevue",
-    "title": "PrimeVue",
-    "image": "https://cdn.simpleicons.org/primevue/primevue"
-  },
-  {
-    "name": "react",
-    "title": "React",
-    "image": "https://cdn.simpleicons.org/react/react"
-  },
-  {
-    "name": "redux",
-    "title": "Redux",
-    "image": "https://cdn.simpleicons.org/redux/redux"
-  },
-  {
-    "name": "shadcnui",
-    "title": "ShadCN UI",
-    "image": "https://cdn.simpleicons.org/shadcnui/shadcnui"
-  },
-  {
-    "name": "tailwindcss",
-    "title": "TailwindCSS",
-    "image": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
   },
   {
     "name": "typescript",
@@ -95,8 +20,73 @@
     "image": "https://cdn.simpleicons.org/typescript/typescript"
   },
   {
+    "name": "jquery",
+    "title": "jQuery",
+    "image": "https://cdn.simpleicons.org/jquery/jquery"
+  },
+  {
+    "name": "node.js",
+    "title": "Node.js",
+    "image": "https://cdn.simpleicons.org/node.js/node.js"
+  },
+  {
     "name": "vue.js",
-    "title": "Vue.js",
+    "title": "Vue JS",
     "image": "https://cdn.simpleicons.org/vue.js/vue.js"
+  },
+  {
+    "name": "nuxt",
+    "title": "Nuxt JS",
+    "image": "https://cdn.simpleicons.org/nuxt/nuxt"
+  },
+  {
+    "name": "react",
+    "title": "React JS",
+    "image": "https://cdn.simpleicons.org/react/react"
+  },
+  {
+    "name": "tailwindcss",
+    "title": "TailwindCSS",
+    "image": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
+  },
+  {
+    "name": "bootstrap",
+    "title": "Bootstrap",
+    "image": "https://cdn.simpleicons.org/bootstrap/bootstrap"
+  },
+  {
+    "name": "git",
+    "title": "Git",
+    "image": "https://cdn.simpleicons.org/git/git"
+  },
+  {
+    "name": "redux",
+    "title": "Redux",
+    "image": "https://cdn.simpleicons.org/redux/redux"
+  },
+  {
+    "name": "leaflet",
+    "title": "Leaflet",
+    "image": "https://cdn.simpleicons.org/leaflet/leaflet"
+  },
+  {
+    "name": "php",
+    "title": "PHP",
+    "image": "https://cdn.simpleicons.org/php/php"
+  },
+  {
+    "name": "laravel",
+    "title": "Laravel",
+    "image": "https://cdn.simpleicons.org/laravel/laravel"
+  },
+  {
+    "name": "dart",
+    "title": "Dart",
+    "image": "https://cdn.simpleicons.org/dart/dart"
+  },
+  {
+    "name": "flutter",
+    "title": "Flutter",
+    "image": "https://cdn.simpleicons.org/flutter/flutter"
   }
 ]
