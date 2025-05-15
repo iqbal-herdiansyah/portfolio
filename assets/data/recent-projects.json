@@ -21,10 +21,6 @@
         "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
       },
       {
-        "name": "Primevue",
-        "path": "https://cdn.simpleicons.org/primevue/primevue"
-      },
-      {
         "name": "Leaflet",
         "path": "https://cdn.simpleicons.org/leaflet/leaflet"
       }
@@ -50,10 +46,6 @@
       {
         "name": "Tailwindcss",
         "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
-      },
-      {
-        "name": "Primevue",
-        "path": "https://cdn.simpleicons.org/primevue/primevue"
       }
     ]
   },
@@ -100,10 +92,6 @@
       {
         "name": "Tailwindcss",
         "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
-      },
-      {
-        "name": "Primevue",
-        "path": "https://cdn.simpleicons.org/primevue/primevue"
       }
     ]
   },
@@ -127,10 +115,6 @@
       {
         "name": "Tailwindcss",
         "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
-      },
-      {
-        "name": "Primevue",
-        "path": "https://cdn.simpleicons.org/primevue/primevue"
       }
     ]
   }
