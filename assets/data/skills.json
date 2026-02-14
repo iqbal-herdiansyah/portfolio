@@ -7,7 +7,7 @@
   {
     "name": "css3",
     "title": "CSS3",
-    "image": "https://cdn.simpleicons.org/css3/css3"
+    "image": "https://cdn.simpleicons.org/css/css"
   },
   {
     "name": "javascript",
@@ -43,6 +43,11 @@
     "name": "react",
     "title": "React JS",
     "image": "https://cdn.simpleicons.org/react/react"
+  },
+  {
+    "name": "next",
+    "title": "Next JS",
+    "image": "https://cdn.simpleicons.org/next.js/next.js"
   },
   {
     "name": "tailwindcss",
@@ -88,5 +93,10 @@
     "name": "flutter",
     "title": "Flutter",
     "image": "https://cdn.simpleicons.org/flutter/flutter"
+  },
+  {
+    "name": "metabase",
+    "title": "Metabase",
+    "image": "https://cdn.simpleicons.org/metabase/metabase"
   }
 ]

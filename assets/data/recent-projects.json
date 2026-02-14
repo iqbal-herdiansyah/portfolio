@@ -117,5 +117,32 @@
         "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
       }
     ]
+  },
+  {
+    "name": "MBG DASHBOARD",
+    "url": "https://monev-mbg.bappenas.go.id/app/login",
+    "description": "Merupakan aplikasi berbasis web untuk pemesanan produk hotel secara online.",
+    "images": {
+      "preview": "/images/projects/mbg-dashboard/thumbnail.png",
+      "logo": ""
+    },
+    "tools": [
+      {
+        "name": "React",
+        "path": "https://cdn.simpleicons.org/react/react"
+      },
+      {
+        "name": "Next",
+        "path": "https://cdn.simpleicons.org/next.js/next.js"
+      },
+      {
+        "name": "Tailwindcss",
+        "path": "https://cdn.simpleicons.org/tailwindcss/tailwindcss"
+      },
+      {
+        "name": "Metabase",
+        "path": "https://cdn.simpleicons.org/metabase/metabase"
+      }
+    ]
   }
 ]
